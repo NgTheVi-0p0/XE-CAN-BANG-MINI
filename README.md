@@ -1,3 +1,4 @@
+<img width="1571" height="897" alt="schematic" src="https://github.com/user-attachments/assets/fa7e841c-cefc-42c9-8dbd-5fefa24ab0e7" />
 # 🤖 STM32F407 Two-Wheeled Self-Balancing Robot
 
 A mini two-wheeled self-balancing robot based on the **STM32F407VET6 (ARM Cortex-M4 @ 168MHz)**, featuring a **Cascade PID controller**, **Complementary Sensor Fusion Filter**, and **Hardware Timers**.
