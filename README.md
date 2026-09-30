@@ -1,4 +1,5 @@
-<img width="1571" height="897" alt="schematic" src="https://github.com/user-attachments/assets/fa7e841c-cefc-42c9-8dbd-5fefa24ab0e7" />
+
+
 # 🤖 STM32F407 Two-Wheeled Self-Balancing Robot
 
 A mini two-wheeled self-balancing robot based on the **STM32F407VET6 (ARM Cortex-M4 @ 168MHz)**, featuring a **Cascade PID controller**, **Complementary Sensor Fusion Filter**, and **Hardware Timers**.
@@ -14,7 +15,7 @@ Developed as an Embedded Systems Course Project at University of Information Tec
 * **Actuators**: 2x 12V DC Gear Motors (PPR: 11, Gear Ratio: 1:30) with Quadrature Encoders.
 * **Driver & Isolation**: TB6612FNG Dual H-Bridge Motor Driver isolated via PC817 Optocoupler module to eliminate motor inductive spikes.
 * **Power Supply**: 3S 18650 Li-ion Battery pack with regulated buck board.
-
+<img width="1181" height="725" alt="schematic" src="https://github.com/user-attachments/assets/54e091e7-7a02-4fb7-9d4f-d5125b551040" />
 ---
 
 ## ⚙️ Control Architecture & Algorithms
