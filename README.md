@@ -52,10 +52,9 @@ Velocity loop parameters were identified using Step Response analysis:
 | **USART1**| 115200 bps, Interrupt RX | Real-time telemetry & parameter tuning |
 
 ### 🕒 Clock Tree Configuration (168 MHz System Clock)
-*(Kéo thả ảnh clock_tree vào đây)*
-
+<img width="1435" height="755" alt="clock_tree" src="https://github.com/user-attachments/assets/3f68fbad-8436-4aa6-8aad-39da96255aa5" />
 ### 📌 Pinout & Peripheral Mapping
-*(Kéo thả ảnh pinout vào đây)*
+<img width="1571" height="897" alt="pinout" src="https://github.com/user-attachments/assets/18937795-6a1d-412c-a1bb-6a80ac801071" />
 
 ---
 
